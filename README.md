@@ -12,6 +12,30 @@ This game introduces a new experimental mechanic where the player has to grab th
 Some implementations made during the development of this game that are worth mentioning are as follows:
 
 - ## Pathfinding
-The pathfinding utilizes the built-in node in Godot called NavigationAgent2D, which allows the Enemy AI to traverse the navigable areas.
+The pathfinding utilizes the built-in node in Godot called NavigationAgent2D, which allows the Enemy AI to traverse the navigable areas.\
+The enemy also has a detection range and will begin chasing the player once they enter it.
 
-- ## Pathfinding
+![GIF](Screenshots/pathfinding.gif)
+
+- **References**:
+  - [enemy detection](https://www.youtube.com/watch?v=lNADi7kTDJ4)
+
+  - [pathfinding](https://www.youtube.com/watch?v=Lt9YdQ6Ztm4)
+
+- ## Procedural Generation
+The map in this game was generated using Procedural Generation. It works by spawning RigidBodies, which react physically when they overlap, causing them to disperse randomly. These RigidBodies are then connected into a tree-like structure using a Minimum Spanning Tree (MST).
+
+![GIF](Screenshots/procedural_dungeon.gif)
+
+Learn more about the implementation 
+[here.](https://www.youtube.com/watch?v=G2_SGhmdYFo&list=PLsk-HSGFjnaH82Bn6xbQNehatj3sIvtMQ&index=7)
+
+- ## Finite State Machine
+The bossfight section of this game was handled using Finite State Machine. FSM allows for easier state management, making Boss AI a breeze to develop.
+
+![Screenshot](Screenshots/FSM.png)
+
+![GIF](Screenshots/bossfight.gif)
+
+Reference to how it was made
+[here.](https://www.youtube.com/watch?v=otHfaomtJh0)
