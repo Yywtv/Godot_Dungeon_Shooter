@@ -39,3 +39,13 @@ The bossfight section of this game was handled using Finite State Machine. FSM a
 
 Reference to how it was made
 [here.](https://www.youtube.com/watch?v=otHfaomtJh0)
+
+# Credits
+- [Audio Atribution](./path-to-your-file.txt)
+- [Characters](https://0x72.itch.io/dungeontileset-ii)
+- [UI](https://pixelfrog-assets.itch.io/tiny-swords)
+- Effects:
+  - [Effect 1](https://bdragon1727.itch.io/free-smoke-fx-pixel-2)
+  - [Effect 2](https://bdragon1727.itch.io/free-effect-bullet-impact-explosion-32x32)
+  - [Effect 3](https://bdragon1727.itch.io/free-effect-and-bullet-16x16)
+  - [Effect 4](https://bdragon1727.itch.io/retro-impact-effect-pack-all)
