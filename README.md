@@ -41,7 +41,7 @@ Reference to how it was made
 [here.](https://www.youtube.com/watch?v=otHfaomtJh0)
 
 # Credits
-- [Audio Atribution](./path-to-your-file.txt)
+- [Audio Atribution](attribution_texts.txt)
 - [Characters](https://0x72.itch.io/dungeontileset-ii)
 - [UI](https://pixelfrog-assets.itch.io/tiny-swords)
 - Effects:
