@@ -8,6 +8,12 @@ This is a Game Development Project made using Godot. It's a 2D dungeon shooter g
 
 This game introduces a new experimental mechanic where the player has to grab the falling bullet after it runs out. The gun can then be reloaded when the player picks up the bullet.
 
+# Installation
+- Download the zip [here](https://github.com/Yywtv/Godot_Dungeon_Shooter/archive/refs/heads/master.zip)
+- Extract the zip
+- Launch the Dungeon Shooter.exe
+
+
 # Implementations
 Some implementations made during the development of this game that are worth mentioning are as follows:
 
